@@ -17,11 +17,11 @@
 	</dependencies>
 	<distributionManagement>
 	  <repository>
-		  <id>releases</id>
+		  <id>liferay</id>
 		  <url>http://localhost:7092/nexus/content/repositories/liferay/</url>
 		</repository>
 		<snapshotRepository>
-		   <id>snapshots</id>
+		   <id>liferay</id>
 		   <url>http://localhost:7092/nexus/content/repositories/liferay/</url>
 		</snapshotRepository>
 	</distributionManagement>
